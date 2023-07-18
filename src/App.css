@@ -1,11 +1,11 @@
 .app {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 200px;
+    margin: 0;
     padding: 20px;
 }
 
 .user-list {
-    display: flex;
+    display: grid;
     gap: 20px;
 }
 
